@@ -44,6 +44,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)](https://android.com)
 
+<div>- 只 是 一 些 链 接 罢 了 -</div>
 </div>
 
 ## Top Repository
@@ -53,6 +54,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Ad-closeNN&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Ad-closeNN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Survive618&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Survive618)
 
-**← 个人主页资料仓库** | **用 Python 做的命令行小游戏 →**
+**个 人 主 页 资 料 仓库****用 Python 做 的 命 令 行 小 游 戏**
 
 </div>
