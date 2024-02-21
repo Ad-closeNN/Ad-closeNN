@@ -21,7 +21,13 @@
 | ------------- | ------------- |
 
 </p>
+<p align="center" style="text-decoration:none;"
+  
+| [← 看不了用这个](https://github-readme-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy) | [看不了用这个 →](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true) |
+| ------------- | ------------- |
 
+</p>
+<br>
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-FFE70B?logo=Javascript&logoColor=fff)](https://javascript.com)
