@@ -30,7 +30,7 @@
 | ------------- | ------------- |
 
 > [!WARNING]
-> 如果加载不出图片，请**点击下面的链接**进行查看或**访问**[**旧版**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)**README文档**
+> 如果加载不出图片，请**点击下面的链接**进行查看或**访问**[**旧版**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README.md)**README文档**
   
 </p>
 <p align="center" style="text-decoration:none;"
@@ -80,7 +80,7 @@
 
 
 > [!WARNING]
-> 如果加载不出图片，请**点击下面的链接**进行查看或**访问**[**旧版**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)**README文档**，因为这是卡片跳转，查看后返回到本界面，点击**上面**加载不出的图片名称即可跳转到对应**GitHub仓库**
+> 如果加载不出图片，请**点击下面的链接**进行查看或**访问**[**旧版**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README.md)**README文档**，因为这是卡片跳转，查看后返回到本界面，点击**上面**加载不出的图片名称即可跳转到对应**GitHub仓库**
 
 
 
