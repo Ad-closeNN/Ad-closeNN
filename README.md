@@ -21,14 +21,14 @@
 
 > [!WARNING]
 > 如果出现 **Something went wrong** ，请尝试访问对应图片的链接
-
-<p align="center"
   
+<p align="center"
+
 | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true" alt="Ad-closeNN's github stats" /></a> |
 | ------------- | ------------- |
 
 </p>
-<p align="center" style="text-decoration:none;"
+<p align="center"
   
 | [← 看不了用这个](https://github-readme-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy) | [看不了用这个 →](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true) |
 | ------------- | ------------- |
