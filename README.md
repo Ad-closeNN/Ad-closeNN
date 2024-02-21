@@ -17,13 +17,13 @@
 
 <p align="center"
   
-| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true" alt="Ad-closeNN's github stats" /></a> |
+| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://readme-n7vnaykou-ad-closenns-projects.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://readme-n7vnaykou-ad-closenns-projects.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true" alt="Ad-closeNN's github stats" /></a> |
 | ------------- | ------------- |
 
 </p>
 <p align="center" style="text-decoration:none;"
   
-| [← 看不了用这个](https://github-readme-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy) | [看不了用这个 →](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true) |
+| [← 看不了用这个](https://readme-n7vnaykou-ad-closenns-projects.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy) | [看不了用这个 →](https://readme-n7vnaykou-ad-closenns-projects.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true) |
 | ------------- | ------------- |
 
 </p>
@@ -57,8 +57,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Ad-closeNN&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Ad-closeNN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Survive618&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Survive618)
+[![Readme Card](https://readme-n7vnaykou-ad-closenns-projects.vercel.app/api/pin/?username=Ad-closeNN&repo=Ad-closeNN&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Ad-closeNN)
+[![Readme Card](https://readme-n7vnaykou-ad-closenns-projects.vercel.app/api/pin/?username=Ad-closeNN&repo=Survive618&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Survive618)
 
 **个 人 主 页 资 料 仓库****用 P y t h o n 做 的 命 令 行 小 游 戏**
 
