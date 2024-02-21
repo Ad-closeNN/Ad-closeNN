@@ -1,6 +1,6 @@
 > [!IMPORTANT]
-> [New Version](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README.md)\
-> 这里是部分旧版本的README文档。新版在[这里](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README.md)。新版本包含**自行部署的图片链接**，其他和这里一样。如果你查看不了[新版](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README.md)的图片，那么这里的图片应该就能访问了，因为这里是作者的**官方图片部署链接**。如果实在是看不了，请直接访问图片的链接进行查看。
+> [New Version](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_new.md)\
+> 这里是部分旧版本的README文档。新版在[这里](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_new.md)。新版本包含**自行部署的图片链接**，其他和这里一样。如果你查看不了[新版](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_new.md)的图片，那么这里的图片应该就能访问了，因为这里是作者的**官方图片部署链接**。如果实在是看不了，请直接访问图片的链接进行查看。
 
 # 你好！ / H E L L O !
 **我是`Ad_closeNN`！是个上学党。这是我的GitHub主页。我有时会鼓捣些没用的小玩意(~~净整没用的~~)，但是自己看还是非常开心的。这就是我，和平常人没啥两样。喜欢就关注一下吧！**
