@@ -13,7 +13,7 @@
 
 # GitHub 个人统计
 > [!Note]
-> 使用 [Anurag Hazra 大佬](https://github.com/anuraghazra/github-readme-stats) 做的开源 GitHub 卡片统计来展示个人统计
+> 使用 [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) 大佬做的开源 GitHub 卡片统计来展示个人统计
 
 <p align="center"
   
