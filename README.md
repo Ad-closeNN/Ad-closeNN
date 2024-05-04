@@ -1,9 +1,5 @@
-> [!IMPORTANT]
-> [Old Version](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)\
-> 这里是新版本的README文档。旧版在[这里](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)。[旧版本](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)包含**官方图片部署链接**，其他和这里一样。如果你加载不了这里的图片，那么[**那里**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)的图片应该就能访问了，因为那里是作者的**官方图片部署链接**
-
 # 你好！ / H E L L O !
-**我是`Ad_closeNN`！是个上学党。这是我的GitHub主页。我有时会鼓捣些没用的小玩意(~~净整没用的~~)，但是自己看还是非常开心的。这就是我，和平常人没啥两样。喜欢就关注一下吧！**
+**我是`Ad_closeNN`！是个上学党，这是我的GitHub主页。我有时会鼓捣些没用的小玩意(~~净整没用的~~)，但是自己看还是非常开心的。这就是我，和平常人没啥两样。喜欢就关注一下吧！**
 
 <div align="center">
 
@@ -18,27 +14,13 @@
 # GitHub 个人统计
 > [!Note]
 > 使用 [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) 大佬做的开源 GitHub 卡片统计来展示个人统计
-> 
-> 已使用自行部署的[链接](https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&show_icons=true)，图片加载可能会有问题。
-
-> [!WARNING]
-> 如果出现 **Something went wrong** ，请尝试访问对应图片的链接
 
 <p align="center"
   
-| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true" alt="Ad-closeNN's github stats" /></a> |
+| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api/top-langs/?username=Ad-closeNN&layout=compact&theme=buefy&hide_border=true" alt="Ad-closeNN's github stats" /></a> |
 | ------------- | ------------- |
 
-> [!WARNING]
-> 如果加载不出图片，请**点击下面的链接**进行查看或**访问**[**旧版**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)**README文档**
-  
-</p>
-<p align="center" style="text-decoration:none;"
-  
-| [← 看不了用这个](https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&locale=cn&show_icons=true&include_all_commits=true&theme=buefy) | [看不了用这个 →](https://ad-closenn-stats.vercel.app/api/top-langs/?username=Ad-closeNN&locale=cn&layout=compact&theme=buefy&hide_border=true) |
-| ------------- | ------------- |
 
-</p>
 <br>
 <div align="center">
 
