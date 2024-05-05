@@ -60,12 +60,6 @@
 </div>
 
 
-
-> [!WARNING]
-> 如果加载不出图片，请**点击下面的链接**进行查看或**访问**[**旧版**](https://github.com/Ad-closeNN/Ad-closeNN/blob/main/README_old.md)**README文档**，因为这是卡片跳转，查看后返回到本界面，点击**上面**加载不出的图片名称即可跳转到对应**GitHub仓库**
-
-
-
 <p align="center"
 
 | [← 看不了用这个](https://ad-closenn-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Ad-closeNN&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) | [看不了用这个 →](https://ad-closenn-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Survive618&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) |
