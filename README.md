@@ -55,7 +55,7 @@
 [![Readme Card](https://ad-closenn-stats.vercel.app/api/pin/?username=Ad-closeNN&repo=Survive618&show_owner=true&locale=cn&icon_color=79ff97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ad-closeNN/Survive618)
 
 
-**个 人 主 页 资 料 仓 库****用 P y t h o n 做 的 命 令 行 小 游 戏**
+
 
 </div>
 
