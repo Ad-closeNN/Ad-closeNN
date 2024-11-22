@@ -44,7 +44,6 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-F05000?logo=ubuntu&logoColor=fff)](https://ubuntu.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)](https://android.com)
 
-<div>- 只 是 一 些 链 接 罢 了 -</div>
 </div>
 
 ## Top Repository
