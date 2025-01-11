@@ -19,3 +19,9 @@
   
 | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> |</a> |
 | ------------- | ------------- |
+
+<div align="center"
+  
+你是第 ![Visit-Count](https://profile-counter.glitch.me/Ad-closeNN/count.svg) 个访问本页面的人！
+
+</div>
