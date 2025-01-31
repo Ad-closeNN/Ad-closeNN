@@ -1,5 +1,5 @@
 # Hi there! I'm Ad-closeNN!
-**我是`Ad_closeNN`！是个上学党，这是我的 GitHub 主页。我有时会鼓捣些没用的小玩意(~~净整没用的~~)。**
+**我是`Ad_closeNN`！这是我的 GitHub 主页。对。就是。这么。简单。。嗯。
 
 <div align="center">
 
