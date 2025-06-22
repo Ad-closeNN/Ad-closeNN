@@ -1,5 +1,5 @@
 # Hi there! I'm Ad-closeNN!
-**我是`Ad_closeNN`，是一个专业写答辩™的程序员(? | 这是我的 GitHub 主页。对。就是。这么。简单。。嗯。**
+**我是`Ad_closeNN`，这是我的 GitHub 主页。对。就是。这么。简单。。嗯。**
 
 <div align="center">
 
@@ -22,7 +22,5 @@
 
 <div align="center"
   
-你是第 ![Visit-Count](https://profile-counter.glitch.me/Ad-closeNN/count.svg) 个访问本页面的人！
-
-别看仓库都是答辩(真的
+你是第 ![Visit-Count](https://profile-counter.glitch.me/Ad-closeNN/count.svg) 个访问本页面的人
 </div>
