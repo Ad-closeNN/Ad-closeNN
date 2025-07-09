@@ -1,5 +1,5 @@
 # Hi there! I'm Ad-closeNN!
-**我是`Ad_closeNN`，这是我的 GitHub 主页。对。就是。这么。简单。。嗯。**
+**我是`Ad_closeNN`。你看我干什么???**
 
 <div align="center">
 
@@ -19,8 +19,3 @@
   
 | <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> |</a> |
 | ------------- | ------------- |
-
-<div align="center"
-  
-你是第 ![Visit-Count](https://profile-counter.glitch.me/Ad-closeNN/count.svg) 个访问本页面的人
-</div>
