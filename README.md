@@ -1,6 +1,8 @@
 # Hi there! I'm Ad-closeNN!
 **我是`Ad_closeNN`。你看我干什么???**
 
+https://adclosenn.top
+
 <div align="center">
 
 **~~达成目标: 你被骗了~~**
