@@ -1,7 +1,7 @@
 # Hi there! I'm Ad-closeNN!
 **我是`Ad_closeNN`。你看我干什么???**
 
-https://adclosenn.top
+https://me.adclosenn.top
 
 <div align="center">
 
