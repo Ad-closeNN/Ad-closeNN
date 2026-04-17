@@ -8,5 +8,5 @@
 
 <p align="center"
   
-| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://ad-closenn-stats.vercel.app/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> |</a> |
+| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> |</a> |
 | ------------- | ------------- |
