@@ -1,5 +1,9 @@
 # Hi there! I'm Ad-closeNN!
-**我是`Ad_closeNN`。你看我干什么???**
+
+(๑•̀ㅂ•́) ✧ 你好呀，远方的朋友，我是 Ad_closeNN    
+那个......  
+关注塔菲喵  
+关注塔菲谢谢喵（）
 
 ---
 
@@ -8,5 +12,5 @@
 
 <p align="center"
   
-| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> |</a> |
+| <a href="https://github.com/Ad-closeNN"><img align="center" src="https://github-readme-stats.adclosenn.dev/api?username=Ad-closeNN&show_icons=true&include_all_commits=true&theme=buefy" alt="Ad-closeNN's github stats" /></a> |</a> |
 | ------------- | ------------- |
